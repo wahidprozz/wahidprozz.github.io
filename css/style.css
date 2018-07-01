@@ -1,0 +1,42 @@
+
+
+h1{
+    text-align: center;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+   /* border: solid black 3px;*/
+}
+.page-content{
+  margin-top: 80px;
+  text-align: center;
+}
+.demo-card-wide.mdl-card {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  max-width: 512px;
+  border: 3px solid #33B8FF;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #E9F1F5;
+}
+.currency-inputs-wrapper{
+  padding: 20px;
+}
+.input-group mb-3>div{
+  width: 50% !important;
+  padding: 10px;
+  margin: 0px;
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.centered{
+  text-align: center;
+}
+#convertion-title{
+  font-size: 5vw;
+}
